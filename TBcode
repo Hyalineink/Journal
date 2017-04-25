@@ -1,0 +1,13 @@
+<!--全屏显示及固定背景-->
+<div  style="width:990px;height:1080px;">
+<div class="sn-simple-logo" style="width:990px;height:1080px;border:0;padding:0;top:auto;left:auto;background:none;">
+<div class="sn-simple-logo" style="width:1920px;height:1181px;padding:0px;border:none;display:block;top:0px;left:-465px;z-index:3;overflow:hidden;">	
+        <div style="background-image:url(https://img.alicdn.com/imgextra/i3/317900274/TB2Mh_6kSBjpuFjy1XdXXaooVXa_!!317900274.jpg); background-repeat:no-repeat;
+background-attachment:fixed; background-position:top;background-size:1920px 1080px;">
+			<img src="https://img.alicdn.com/imgextra/i1/317900274/TB2ckktkHtlpuFjSspfXXXLUpXa_!!317900274.png" alt=" 鲜条说明.png"/>
+         </div>
+            
+
+</div>	
+</div>
+</div>
